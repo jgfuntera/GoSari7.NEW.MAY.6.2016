@@ -11,12 +11,10 @@ import org.json.JSONException;
 import org.json.JSONObject;
 import android.content.Context;
 
-/**
- * Created by greg on 4/25/16.
- */
+
 public class AsyncTaskFoodItem extends AsyncTask<String, String, JSONObject> {
 
-
+//This is a test for git
     public static String url=null;
 
     public static boolean test;
