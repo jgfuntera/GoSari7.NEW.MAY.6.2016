@@ -112,6 +112,7 @@ public class ViewFoodItems extends AppCompatActivity {
                 price = ItemfoodList.get(position).getPrice();
                 delivery_time = ItemfoodList.get(position).getDeliverytime();
 
+
             }
 
 
